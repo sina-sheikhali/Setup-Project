@@ -1,0 +1,43 @@
+C:\Users\sina\source\repos\sina-sheikhali\sina-sheikhali\bin\Debug\sina-sheikhali.exe.config
+C:\Users\sina\source\repos\sina-sheikhali\sina-sheikhali\bin\Debug\sina-sheikhali.exe
+C:\Users\sina\source\repos\sina-sheikhali\sina-sheikhali\bin\Debug\sina-sheikhali.pdb
+C:\Users\sina\source\repos\sina-sheikhali\sina-sheikhali\obj\Debug\sina-sheikhali.csproj.AssemblyReference.cache
+C:\Users\sina\source\repos\sina-sheikhali\sina-sheikhali\obj\Debug\sina_sheikhali.Properties.Resources.resources
+C:\Users\sina\source\repos\sina-sheikhali\sina-sheikhali\obj\Debug\sina-sheikhali.csproj.GenerateResource.cache
+C:\Users\sina\source\repos\sina-sheikhali\sina-sheikhali\obj\Debug\sina-sheikhali.csproj.CoreCompileInputs.cache
+C:\Users\sina\source\repos\sina-sheikhali\sina-sheikhali\obj\Debug\sina-sheikhali.exe
+C:\Users\sina\source\repos\sina-sheikhali\sina-sheikhali\obj\Debug\sina-sheikhali.pdb
+C:\Users\sina\source\repos\sina-sheikhali\sina-sheikhali\obj\Debug\sina_sheikhali.UserControl1.resources
+C:\Users\sina\source\repos\sina-sheikhali\sina-sheikhali\obj\Debug\sina_sheikhali.Form1.resources
+C:\Users\sina\source\repos\sina-sheikhali\sina-sheikhali\obj\Debug\sina_sheikhali.UserControl2.resources
+C:\Users\V.X\Desktop\sina-sheikhali\sina-sheikhali\sina-sheikhali\obj\Debug\sina-sheikhali.csproj.AssemblyReference.cache
+C:\Users\V.X\Desktop\sina-sheikhali\sina-sheikhali\sina-sheikhali\obj\Debug\sina-sheikhali.csproj.SuggestedBindingRedirects.cache
+C:\Users\V.X\Desktop\sina-sheikhali\sina-sheikhali\sina-sheikhali\obj\Debug\sina_sheikhali.Form1.resources
+C:\Users\V.X\Desktop\sina-sheikhali\sina-sheikhali\sina-sheikhali\obj\Debug\sina_sheikhali.Properties.Resources.resources
+C:\Users\V.X\Desktop\sina-sheikhali\sina-sheikhali\sina-sheikhali\obj\Debug\sina_sheikhali.UserControl1.resources
+C:\Users\V.X\Desktop\sina-sheikhali\sina-sheikhali\sina-sheikhali\obj\Debug\sina_sheikhali.UserControl2.resources
+C:\Users\V.X\Desktop\sina-sheikhali\sina-sheikhali\sina-sheikhali\obj\Debug\sina-sheikhali.csproj.GenerateResource.cache
+C:\Users\V.X\Desktop\sina-sheikhali\sina-sheikhali\sina-sheikhali\obj\Debug\sina-sheikhali.csproj.CoreCompileInputs.cache
+C:\Users\V.X\Desktop\sina-sheikhali\sina-sheikhali\sina-sheikhali\obj\Debug\sina-sheikhali.exe
+C:\Users\V.X\Desktop\sina-sheikhali\sina-sheikhali\sina-sheikhali\obj\Debug\sina-sheikhali.pdb
+C:\Users\V.X\Desktop\sina-sheikhali\sina-sheikhali\sina-sheikhali\bin\Debug\sina-sheikhali.exe.config
+C:\Users\V.X\Desktop\sina-sheikhali\sina-sheikhali\sina-sheikhali\bin\Debug\sina-sheikhali.exe
+C:\Users\V.X\Desktop\sina-sheikhali\sina-sheikhali\sina-sheikhali\bin\Debug\sina-sheikhali.pdb
+C:\Users\V.X\Desktop\sina-sheikhali\sina-sheikhali\sina-sheikhali\obj\Debug\sina_sheikhali.UserControl3.resources
+C:\Users\V.X\Desktop\sina-sheikhali\sina-sheikhali\sina-sheikhali\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\V.X\Desktop\sina-sheikhali\sina-sheikhali\sina-sheikhali\obj\Debug\sina-sheikhali.csproj.ResolveComReference.cache
+C:\Users\sina\Desktop\Setup Project\Setup\sina-sheikhali\bin\Debug\sina-sheikhali.exe.config
+C:\Users\sina\Desktop\Setup Project\Setup\sina-sheikhali\bin\Debug\sina-sheikhali.exe
+C:\Users\sina\Desktop\Setup Project\Setup\sina-sheikhali\bin\Debug\sina-sheikhali.pdb
+C:\Users\sina\Desktop\Setup Project\Setup\sina-sheikhali\obj\Debug\sina-sheikhali.csproj.AssemblyReference.cache
+C:\Users\sina\Desktop\Setup Project\Setup\sina-sheikhali\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\sina\Desktop\Setup Project\Setup\sina-sheikhali\obj\Debug\sina-sheikhali.csproj.ResolveComReference.cache
+C:\Users\sina\Desktop\Setup Project\Setup\sina-sheikhali\obj\Debug\sina_sheikhali.Form1.resources
+C:\Users\sina\Desktop\Setup Project\Setup\sina-sheikhali\obj\Debug\sina_sheikhali.Properties.Resources.resources
+C:\Users\sina\Desktop\Setup Project\Setup\sina-sheikhali\obj\Debug\sina_sheikhali.UserControl1.resources
+C:\Users\sina\Desktop\Setup Project\Setup\sina-sheikhali\obj\Debug\sina_sheikhali.UserControl2.resources
+C:\Users\sina\Desktop\Setup Project\Setup\sina-sheikhali\obj\Debug\sina_sheikhali.UserControl3.resources
+C:\Users\sina\Desktop\Setup Project\Setup\sina-sheikhali\obj\Debug\sina-sheikhali.csproj.GenerateResource.cache
+C:\Users\sina\Desktop\Setup Project\Setup\sina-sheikhali\obj\Debug\sina-sheikhali.csproj.CoreCompileInputs.cache
+C:\Users\sina\Desktop\Setup Project\Setup\sina-sheikhali\obj\Debug\sina-sheikhali.exe
+C:\Users\sina\Desktop\Setup Project\Setup\sina-sheikhali\obj\Debug\sina-sheikhali.pdb
